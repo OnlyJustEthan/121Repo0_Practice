@@ -2,3 +2,5 @@
 Making a repository to practice making repositories.
 - [ ] Understand Code
 - [ ] Do the thing
+
+*Clone sync practice*
